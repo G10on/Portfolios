@@ -261,7 +261,7 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
-  background: url('../images/754564.png') 20%;
+  background: url('../images/754564.png');
   height: 100vh;
 }
 
